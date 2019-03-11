@@ -1,0 +1,4 @@
+{
+  "development": "http://localhost:1234",
+  "production": "http://p1.helloyzy.cn/api"
+}
