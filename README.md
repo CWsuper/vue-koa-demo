@@ -1,6 +1,6 @@
 # hello-world
 
-###一个vue-cli3.0的demo，部署在服务器上，与koa后端联通
+### 一个vue-cli3.0的demo，部署在服务器上，与koa后端联通
 
 ## Project setup
 ```
